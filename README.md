@@ -35,9 +35,9 @@ Result: **FF**
 Result: **CRQ7**
 
 ### Triacontadi to Decimal 
-**CRQ7** = C*(32^3) + R*(32^2) + Q*(32^1) + 4*(32^0) = 12*(32^3) + 27*(32^2) + 26*32 + 4*1 = 393216 + 27648 + 832 + 4 = **421700**
+<a href="https://www.codecogs.com/eqnedit.php?latex=CRQ7&space;=&space;C*32^3&space;&plus;&space;R*32^2&space;&plus;&space;Q*32^1&space;&plus;&space;4*32^0&space;=&space;12*32^3&space;&plus;&space;27*32^2&space;&plus;&space;26*32&space;&plus;&space;4*1&space;=&space;393216&space;&plus;&space;27648&space;&plus;&space;832&space;&plus;&space;4&space;=&space;421700" target="_blank"><img src="https://latex.codecogs.com/gif.latex?CRQ7&space;=&space;C*32^3&space;&plus;&space;R*32^2&space;&plus;&space;Q*32^1&space;&plus;&space;4*32^0&space;=&space;12*32^3&space;&plus;&space;27*32^2&space;&plus;&space;26*32&space;&plus;&space;4*1&space;=&space;393216&space;&plus;&space;27648&space;&plus;&space;832&space;&plus;&space;4&space;=&space;421700" title="CRQ7 = C*32^3 + R*32^2 + Q*32^1 + 4*32^0 = 12*32^3 + 27*32^2 + 26*32 + 4*1 = 393216 + 27648 + 832 + 4 = 421700" /></a>
 
-**FF** = F*(32^1) + F*(32^0) = 15*32 + 15*1 = 480 + 15 = **495**
+<a href="https://www.codecogs.com/eqnedit.php?latex=FF&space;=&space;F*32^1&space;&plus;&space;F*32^0&space;=&space;15*32&space;&plus;&space;15*1&space;=&space;480&space;&plus;&space;15&space;=&space;495" target="_blank"><img src="https://latex.codecogs.com/gif.latex?FF&space;=&space;F*32^1&space;&plus;&space;F*32^0&space;=&space;15*32&space;&plus;&space;15*1&space;=&space;480&space;&plus;&space;15&space;=&space;495" title="FF = F*32^1 + F*32^0 = 15*32 + 15*1 = 480 + 15 = 495" /></a>
 
 ## Cheatsheet
 |Decimal  |Triacontadi|
